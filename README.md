@@ -2,7 +2,7 @@
 
 ## OASIS TC Open Repository: CES-TC
 
-This GitHub public repository[<repoName>](https://github.com/oasis-open/<repoName>/) was created at the request of the [<TcName>](https://www.oasis-open.org/committees/<TcName>/)as an [OASIS TC Open Repository](https://www.oasis-open.org/resources/open-repositories/) to support development of open source resources related to Technical Committee work.
+This GitHub public repository[<repoName>](https://github.com/oasis-open/<repoName>/) was created at the request of the [CES-TC](https://www.oasis-open.org/committees/ces-tc/) as an [OASIS TC Open Repository](https://www.oasis-open.org/resources/open-repositories/) to support development of open source resources related to Technical Committee work.
 
 While this TC Open Repository remains associated with the sponsor TC, its development priorities, leadership, intellectual property terms, participation rules, and other matters of governance are [separate and distinct](https://github.com/oasis-open/<repoName>/blob/master/CONTRIBUTING.md#governance-distinct-from-oasis-tc-process) from the OASIS TC Process and related policies.
 

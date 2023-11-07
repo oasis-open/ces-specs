@@ -37,7 +37,7 @@ Initially, the TC members have designated one or more persons to serve as Mainta
 - Tom Dodson, tom.dodson@intel.com, PlatformCertTool, Intel
 - Erin Hadi, ehadi@micron.com, ehadi-micron, Micron
 - Jim Luo, jim.luo@microsoft.com, Microsoft
-- Jack Tinkham, jack.tinkham.microsoft.com, jacktinkhamMSFT, Microsoft
+- Jack Tinkham, jack.tinkham@microsoft.com, jacktinkhamMSFT, Microsoft
 
 ## About OASIS TC Open Repositories
 
